@@ -1,9 +1,0 @@
-D:\C#sharp\CicloRepeticao\bin\Debug\CicloRepeticao.exe
-D:\C#sharp\CicloRepeticao\bin\Debug\CicloRepeticao.pdb
-D:\C#sharp\CicloRepeticao\obj\Debug\CicloRepeticao.csprojAssemblyReference.cache
-D:\C#sharp\CicloRepeticao\obj\Debug\CicloRepeticao.Form1.resources
-D:\C#sharp\CicloRepeticao\obj\Debug\CicloRepeticao.Properties.Resources.resources
-D:\C#sharp\CicloRepeticao\obj\Debug\CicloRepeticao.csproj.GenerateResource.cache
-D:\C#sharp\CicloRepeticao\obj\Debug\CicloRepeticao.csproj.CoreCompileInputs.cache
-D:\C#sharp\CicloRepeticao\obj\Debug\CicloRepeticao.exe
-D:\C#sharp\CicloRepeticao\obj\Debug\CicloRepeticao.pdb
