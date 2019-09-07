@@ -1,0 +1,9 @@
+D:\C#sharp\PrimeiraAplicacao\bin\Debug\PrimeiraAplicacao.exe
+D:\C#sharp\PrimeiraAplicacao\bin\Debug\PrimeiraAplicacao.pdb
+D:\C#sharp\PrimeiraAplicacao\obj\Debug\PrimeiraAplicacao.csprojAssemblyReference.cache
+D:\C#sharp\PrimeiraAplicacao\obj\Debug\PrimeiraAplicacao.Form1.resources
+D:\C#sharp\PrimeiraAplicacao\obj\Debug\PrimeiraAplicacao.Properties.Resources.resources
+D:\C#sharp\PrimeiraAplicacao\obj\Debug\PrimeiraAplicacao.csproj.GenerateResource.cache
+D:\C#sharp\PrimeiraAplicacao\obj\Debug\PrimeiraAplicacao.csproj.CoreCompileInputs.cache
+D:\C#sharp\PrimeiraAplicacao\obj\Debug\PrimeiraAplicacao.exe
+D:\C#sharp\PrimeiraAplicacao\obj\Debug\PrimeiraAplicacao.pdb
